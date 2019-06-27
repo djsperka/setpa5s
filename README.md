@@ -15,9 +15,9 @@ Instead, compile "SetPA5" project (Release, x64).
 
 Invoke like this:
 
- SetPA5.exe a1 a2
- SetPA5.exe a1
- SetPA5.exe NONE a2
- SetPA5.exe a1 NONE
+ SetPA5.exe a1 a2  
+ SetPA5.exe a1  
+ SetPA5.exe NONE a2  
+ SetPA5.exe a1 NONE  
  
  
